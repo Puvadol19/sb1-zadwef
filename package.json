@@ -1,0 +1,7 @@
+{
+  "name": "forex-trading-system",
+  "private": true,
+  "scripts": {
+    "start": "python src/main.py"
+  }
+}
